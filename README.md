@@ -307,6 +307,6 @@ Released under the [MIT License](LICENSE). See `LICENSE` for details.
 **TrioByte** · Team ID `VTU-QFF-HC-0036` · Tier `Offline`
 · Built with ⚛️ Qiskit for the VTU-QFF Hackathon
 
-[⬆ Back to Top](#TrioByte)
+[⬆ Back to Top](#triobyte)
 
 </div>
