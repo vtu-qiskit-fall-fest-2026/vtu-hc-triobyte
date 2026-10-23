@@ -67,6 +67,7 @@ The quantum model uses a simulated quantum kernel by default. This project does 
 
 ---
 
+
 ## 🧩 Approach and Architecture
 
 ```mermaid
