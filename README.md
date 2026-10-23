@@ -286,6 +286,7 @@ These metrics represent a single test split and may vary with the selected featu
 | Streamlit | [Documentation](https://docs.streamlit.io/) |
 | NASA PROMISE dataset repository | [Dataset Repository](https://github.com/ApoorvaKrisna/NASA-promise-dataset-repository) |
 | GitHub documentation | [GitHub Docs](https://docs.github.com/) |
+| Project Presentation | [Download PPT](./VTU-QFF-HC-0036.pptx) |
 
 ---
 
